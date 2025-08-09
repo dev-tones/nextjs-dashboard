@@ -1,0 +1,5 @@
+npm error Missing script: "seed"
+npm error
+npm error To see a list of scripts, run:
+npm error   npm run
+npm error A complete log of this run can be found in: /Users/twigg/.npm/_logs/2025-08-09T03_20_47_411Z-debug-0.log
